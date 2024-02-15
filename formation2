@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formation professionnelle</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+    
+    <header>
+        <div class="header">
+            <img src="logo-formation-1.png" alt="logo" id="logo" width="150em">
+            <p> <q> Apprenez, Grandissez, Excellez !</q></p>
+            <p>
+                <a href="https://fr.linkedin.com/"><img src="facebook.png" alt="lien fb"></a> 
+                <a href="https://fr.linkedin.com/"><img src="linkedLn.png" alt="lien linkedLn"></a>
+                <a href="https://www.instagram.com/"><img src="instagram.png" alt="lien instagram"></a>
+                <a href="https://twitter.com/?lang=fr"><img src="twitter.png" alt="twitter"></a>
+            </p>
+        </div>
+    </header>
+    
+    
+    <section class="corps">
+        <section class="introduction">
+            <p>
+                Visant principalement à améliorer toute compétence nécessaire dans le domaine du travail, les trois modules précedant seront donc revus de manière approfondie et détaillée pour être fin prêts à être appliqués.
+                <br>Pour une meilleure compréhension de cette formation, il est conseillé de consulter les formations initiales précédentes !
+            </p> 
+        </section>
+       
+
+        <section class="langues">
+           <p>
+               <em>Les langues</em>
+               <br>L'éloquence écrite ou orale est un atout indéniable du monde professionnel, c'est pourquoi nous parlerons de :
+           </p>
+           <ul>
+               <li>Maitriser la Communication écrite</li>
+               <li>Learning basic communication</li>
+               <li>Become a pro in English</li>
+               <li>Advanced and Business English</li>
+           </ul>
+           <p>
+               NB: Pour tout ceux qui sortent de notre formation initiale, quelques recherches en autodidacte seront les bienvenus pour s'appliquer dans les autres langues. 
+           </p>
+        </section>
+
+        <section class="informatique">
+           <p>
+               <em>Domaine de l'inforamtique</em>
+               <p>
+                   En dehors de l'informatique bureautique, il y a deux secteurs colossaux surlesquels tournent le domaine informatique, c-a-d, les résaux et le développement informatique.
+                   <br>Ainsi, nous aborderons les trois parcours suivants :
+               </p>
+               <ul>
+                   <li>Become a junior web developer</li>
+                   <li>Become master network</li>
+                   <li>Become a Hacker Junior</li>
+               </ul>
+           </p>
+        </section>
+
+        <section class="tertiaire">
+           <p>
+               <em>Domaine tertiaire</em>
+               Pour chacun des parcours abordés dans la formation initiale précedante, il est possible d'appliquer les connaissances ci-dessous :
+           </p>
+           <ul>
+               <li>Apprendre à négocier</li>
+               <li>Technique de vente efficace</li>
+               <li>BtoB approach system</li>
+               <li>Etablir un état financier</li>
+           </ul>
+        </section>
+    </section>
+   
+   
+    
+        <footer>
+            <article class="BasPage">               <!-- Accéder au formulaire pour contacter -->
+                <p>Liens d'accès vers une nouvelle page de formulaire </p>
+                <p class="txtBasPage">Infos sur la plateforme: <br> L1G2 
+                    <br>Francky N°1
+                    <br>Deborah N°8
+                    <br>Tsiory N°17
+                    <br>Lanja N°19
+                </p>
+            </article>
+        </footer>
+</body>
+</html>
