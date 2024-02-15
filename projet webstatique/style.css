@@ -50,7 +50,7 @@ header
     justify-content: center;
 }
 
-.p{
+.f3{
     border: solid #a8c7bb;
     border-radius: 20px;
     padding: 10px;
@@ -58,7 +58,7 @@ header
     background-color: #04053e;
 }
 
-.f{
+#f{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -107,4 +107,8 @@ a{
 a:hover{
     color: green;
     text-decoration: underline;
+}
+
+em{
+    font-style: italic;
 }
